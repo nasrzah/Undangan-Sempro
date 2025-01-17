@@ -1,5 +1,5 @@
 // Countdown Setup
-const countdownDate = new Date("November 6, 2024 10:30:00 GMT+0800").getTime();
+const countdownDate = new Date("Januari 21, 2025 14:30:00 GMT+0800").getTime();
 const countdownFunction = setInterval(() => {
   const now = new Date().getTime();
   const distance = countdownDate - now;
